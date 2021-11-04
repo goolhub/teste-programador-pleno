@@ -23,9 +23,9 @@ Passo a passo do teste
 ## Diferenciais
  - Criar um front-end para enviar o código da categoria para API
  - Criar um front-end para listar as categorias cadastradas
- - Organização do Código \n
- - RabbitMQ \n
- - JWT \n
+ - Organização do Código 
+ - RabbitMQ 
+ - JWT 
 
 ## Entrega
 Após finalizar o teste você deverá criar um repositório público no github e colocar um readme com todas as informações de como vamos instalar o seu projeto em nosso ambiente local. Feito o seu git com o projeto e a descrição, encaminhe um e-mail para contato@goolhub.com.br para que possamos analisar.
